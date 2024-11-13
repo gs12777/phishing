@@ -1,0 +1,5 @@
+example.com
+wikipedia.org
+amazon.com
+youtube.com
+facebook.com
