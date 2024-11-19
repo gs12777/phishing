@@ -1,3 +1,0 @@
-Random Forest Accuracy: 1.0000
-SVM Accuracy: 1.0000
-Neural Network Accuracy: 1.0000
